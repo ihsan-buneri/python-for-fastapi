@@ -66,7 +66,7 @@ A package is a directory with an \_ \_init\_\_.py file (which can be empty) that
 ```text
 project/
 └── utils/
-├── _ _init__.py
+├── __init__.py
 ├── math_utils.py
 └── string_utils.py
 ```
